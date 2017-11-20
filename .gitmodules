@@ -1,0 +1,3 @@
+[submodule "WebOptimizer"]
+	path = WebOptimizer
+	url = https://github.com/ligershark/WebOptimizer.git
